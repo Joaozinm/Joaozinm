@@ -3,7 +3,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomeloit/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaozinm&show_icons=true&theme=gruvbox)
+![Joaozinm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaozinm&show_icons=true&theme=gruvbox)
+(![Joaozinm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joaozinm&theme=slateorange&hide_border=true))
+![Joaozinm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaozinm&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
 ### Techs mais utilizadas
 
